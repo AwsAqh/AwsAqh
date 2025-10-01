@@ -30,7 +30,7 @@
 
 <p align="left">
 I'm Aws from Palestine.<br><br>
-- 🔭 I’m working as a junior software engineer (ASP.NET Core, React.js, Node.js).<br>
+- 🔭 I’m a junior software engineer (ASP.NET Core, React.js, Node.js).<br>
 - ⚡ Future SWE.
 </p>
 
